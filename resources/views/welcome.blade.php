@@ -85,7 +85,7 @@
                 <div class="links">
                     <a href="https://github.com/Vagmacker/">João Felipe</a>
                     <a href="https://github.com/marcoabcf/">Marco Aurélio</a>
-                    <a href="https://laravel-news.com">Matheus Cesar</a>
+                    <a href="https://github.com/Matheuscla/">Matheus Cesar</a>
                 </div>
             </div>
         </div>

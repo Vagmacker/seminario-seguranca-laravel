@@ -38,6 +38,7 @@ class UsersController extends Controller
      */
     public function store(Request $request)
     {
+        //dd($_POST);
         $data = $request->get('user');
         $data['password'] = bcrypt('secret');
 
